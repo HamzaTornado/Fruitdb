@@ -1,5 +1,6 @@
 
-"products": [
+{
+    "products": [
   {
     "category": "Fruits",
     "price": "$1",
@@ -37,3 +38,4 @@
     "name": "Peas"
   }
 ]
+}
